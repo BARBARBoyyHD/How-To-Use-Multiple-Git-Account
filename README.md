@@ -1,6 +1,4 @@
-Sure — here is a **clean, beginner-friendly README** that teaches you how to use **two Git accounts (personal GitHub + work GitLab)** on one computer using SSH aliases.
 
-Use this as your personal guide.
 
 ---
 
